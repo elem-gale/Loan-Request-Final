@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Loan Request Final">c5728a88db7233000db670e239961988</application>
+        <filter table="x_232405_loan_requ_loan_request_final">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>Close</name>
+        <order>300</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_232405_loan_requ.loan_request_final_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 17:50:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e97b8e00dbb233000db670e2399619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Close</sys_name>
+        <sys_package display_value="Loan Request Final" source="x_232405_loan_requ">218e71c4db7233000db670e23996190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Request Final">218e71c4db7233000db670e23996190e</sys_scope>
+        <sys_update_name>sys_ui_module_e97b8e00dbb233000db670e2399619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-17 17:50:33</sys_updated_on>
+        <table>x_232405_loan_requ_loan_request_final</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Loan Request Final" max_length="40" name="x_232405_loan_requ_loan_request_final" sizeclass="2" type="collection"/>
+</database>
